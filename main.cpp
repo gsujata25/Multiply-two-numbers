@@ -12,11 +12,6 @@ int main() {
 
     iss >> a >> op >> b;
 
-    if (op == '*') {
-        std::cout << (a * b) << std::endl;
-    } else {
-        std::cout << "Only multiplication (*) is supported." << std::endl;
-    }
-
+//write your code below
     return 0;
 }
